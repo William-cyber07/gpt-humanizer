@@ -1,2 +1,4 @@
 nltk
 transformers
+torch
+scikit-learn
